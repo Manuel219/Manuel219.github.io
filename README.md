@@ -1,5 +1,6 @@
 # Hi There 👋,Welcome!
-<img width="1584" height="396" alt="Emmanuel_Banner_1584x396 (1)" src="https://github.com/user-attachments/assets/c086f12d-edee-494a-966c-fa443389c24e" />
+<img width="1584" height="396" alt="Blue Modern Cybersecurity Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/a9e325ef-a42b-4539-9d4b-285d392f9e32" />
+
 
 
 Hello!👋 My name is **Manuel Obodoechina**. I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
