@@ -1,10 +1,8 @@
-# Emmanuel Obodoechina
-
 # Hi There 👋,Welcome!
 <img width="100%" alt="Manuel Obodoechina" src="https://github.com/user-attachments/assets/fdd2b8ba-9ab7-47cf-a857-9a4c19d09eae" />
 
 
-Hello!👋 My name is **Emmanuel Obodoechina**. I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
+Hello!👋 My name is **Manuel Obodoechina**. I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
 
 I have a huge interest for **Offensive Security and Network Engineering👨‍💻**! Currently Studying for **CEH/Comptia-Pentest, Agentic AI and Python Programming**
 
