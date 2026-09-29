@@ -1,5 +1,4 @@
 # Emmanuel Obodoechina
-My personal Repository
 
 # Hi There 👋,Welcome!
 <img width="1584" height="396" alt="Manuel Obodoechina" src="https://github.com/user-attachments/assets/fdd2b8ba-9ab7-47cf-a857-9a4c19d09eae" />
