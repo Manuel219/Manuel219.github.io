@@ -1,7 +1,7 @@
 # Emmanuel Obodoechina
 
 # Hi There 👋,Welcome!
-<img width="1584" height="396" alt="Manuel Obodoechina" src="https://github.com/user-attachments/assets/fdd2b8ba-9ab7-47cf-a857-9a4c19d09eae" />
+<img width="100%" alt="Manuel Obodoechina" src="https://github.com/user-attachments/assets/fdd2b8ba-9ab7-47cf-a857-9a4c19d09eae" />
 
 
 Hello!👋 My name is **Emmanuel Obodoechina**. I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
@@ -21,5 +21,6 @@ I love to join different Open source communities to learn more about emerging th
 
 - 🔭 I’m currently working on this page.  
 - 🌱 I’m currently learning CEH/Comptia Pentest  
-- 📫 You can reach me on Linkedin 😄 Pronouns: He/Him  
+- 📫 You can reach me on Linkedin
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I am always curious to know how things work, i love breaking stuffs and fixing them. 
