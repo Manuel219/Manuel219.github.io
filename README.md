@@ -3,7 +3,7 @@
 
 
 
-Hello!👋 My name is **Manuel Obodoechina**. I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
+Hello!👋 I am a professional Network and Security Engineer with 4 years experience working as Technical Support Specialist and Cybersecurity analyst.
 
 I have a huge interest for **Offensive Security and Network Engineering👨‍💻**! Currently Studying for **CEH/Comptia-Pentest, Agentic AI and Python Programming**
 
