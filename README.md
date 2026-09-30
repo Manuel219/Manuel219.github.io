@@ -1,5 +1,5 @@
 # Hi There 👋,Welcome!
-<img width="1584" height="396" alt="Blue Modern Cybersecurity Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/a9e325ef-a42b-4539-9d4b-285d392f9e32" />
+<img width="900" alt="Blue Modern Cybersecurity Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/a9e325ef-a42b-4539-9d4b-285d392f9e32" />
 
 
 
